@@ -1,0 +1,4 @@
+['Azure', 'Blue_spruce', 'Blush', 'Denim', 'Emeral', 'Flamingo', 'Fuchsia',
+           'Garnet', 'Ginger', 'Lavender', 'Lemon', 'Magenta', 'Mauva_gauva',
+           'Peach', 'Purple', 'Radiant_orchid', 'Rose_gold', 'Rose_petal',
+           'Salmon', 'Saphire', 'Spring_cactus', 'Tanzanite', 'Titanium', 'Wintergreen']

@@ -1,0 +1,19 @@
+Create a new POST request to http://localhost:8000/classify_hair_color.
+In the Body tab, select "form-data".
+Add a key "file" with the type set to "File", and upload your image.
+Send the request.
+
+Successful classification:
+{
+  "hair_type": "Azure"
+}
+
+No face detected:
+{
+  "error": "No face detected in the image"
+}
+
+Invalid image file:
+{
+  "detail": "Invalid image file"
+}
